@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Spencer Dean"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Spencer Dean"
+description              : "Data Science and Journalism Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,10 +107,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Spencer Dean"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Hi! I'm a junior studying Psychology and Data Science at Wesleyan
+  University, where I contribute to the school newspaper, the Wesleyan Argus, as a
+  Copy Editor and Staff Writer. At school I also work for the Wesleyan Media Project as
+  a research assistant, aiding a group of computer science and social science professors in
+  collecting and analyzing data on the volume, spending, sponsorship, and content of political
+  advertising in the U.S. In my year-and-counting with the Media Project, I have specialized in
+  analysis of Facebook advertisements in the 2020 presidential election.
+
+  Outside of school, I've interned at Salesforce, where I received invaluable experience with
+  collaboration and communication while working on projects ranging from technical writing to
+  user research and analytics (involving both quantatative and qualitative data).
+
+  Talk about journalism. "
+  location         : "San Francisco Bay Area"
   email            :
   links:
     - label: "Email"
@@ -127,7 +139,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/spencerrdean"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -293,3 +305,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+      #_pages
+      - scope:
+        path: ""
+        type: pages
+      values:
+        layout: single
+        author_profile: true
