@@ -124,8 +124,10 @@ author:
   Talk about journalism. "
   location         : "San Francisco Bay Area"
   email            : "srdean@wesleyan.edu"
-  github: "spencerrdean"
   linkedin: "spencer-dean-786693156"
+  medium: "@spencerdean"
+  github: "spencerrdean"
+
   #links:
 #    - label: "Email"
 #      icon: "fas fa-fw fa-envelope-square"
