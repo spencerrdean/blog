@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Spencer Dean"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Personal Project Portfolio"
 name                     : "Spencer Dean"
 description              : "Data Science and Journalism Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -123,26 +123,26 @@ author:
 
   Talk about journalism. "
   location         : "San Francisco Bay Area"
-  email            :
+  email            : "srdean@wesleyan.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto:srdean@wesleyan.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/SpencerDean14"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/spencer.dean.7524"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       # url: "https://github.com/spencerrdean"
+      url: "https://github.com/spencerrdean"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@spencerdean"
 
 # Site Footer
 footer:
