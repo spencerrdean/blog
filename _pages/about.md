@@ -1,8 +1,8 @@
 ---
-title: "About"
+layout: archive
 permalink: /about/
-header:
-  image: "/images/trimmed_cover.jpg"
+title: "About"
+author_profile: true
 ---
 
 Hi! I'm a junior studying Psychology and Data Science at Wesleyan
