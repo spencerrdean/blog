@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/trimmed_cover"
+  image: "/images/trimmed_cover.jpg"
 ---
 
 Hi! I'm a junior studying Psychology and Data Science at Wesleyan
