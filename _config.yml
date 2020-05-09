@@ -122,7 +122,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:sdean136@gmail.com"
-    - label: "Resume Webpage"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
        url: "https://https://spencerrdean.github.io/"
 #    - label: "Twitter"
