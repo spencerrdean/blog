@@ -112,7 +112,9 @@ author:
   This site serves as a portfolio to highlight some of my personal projects in data science, journalism, and more.
   Have a look around! Thoughts to share? Don't hesitate to contact me via email or Linkedin."
   location         : "San Francisco Bay Area"
+  website          : "https://https://spencerrdean.github.io/"
   email            : "sdean136@gmail.com"
+  github           : "https://github.com/spencerrdean"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

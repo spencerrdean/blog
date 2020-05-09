@@ -9,12 +9,8 @@ Hi! I'm Spencer, a Data Science and Psychology student at Wesleyan University. A
 contribute to the [newspaper](http://wesleyanargus.com/user/srdean/) as a Copy Editor and Staff Writer and work for the [Wesleyan Media Project](https://mediaproject.wesleyan.edu/) as a computational research assistant, aiding the group in collecting and analyzing data on the volume, spending, sponsorship, and content of political
 advertising in the U.S.
 
-Outside of school, I've interned at Salesforce, where I received invaluable experience
-<<<<<<< HEAD
-while working on projects ranging from technical writing to user research and analytics
-=======
-while working on projects ranging from technical writing to user research and analytics 
->>>>>>> dc14b58919d2cfb4ef8cc8d7315e3ab4644c7295
-(involving both quantitative and qualitative data).
+Outside of school, I've interned at Salesforce, where I worked on challenging and rewarding
+projects ranging from technical writing to user research and analytics (involving both 
+quantitative and qualitative data).
 
 Check out my [resume webpage](https://spencerrdean.github.io/) for more on me!
