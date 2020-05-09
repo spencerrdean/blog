@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Data Science Projects"
-    url: /data-science-projects/
+    url: /data/
   - title: "Journalism Projects"
     url: /journalism/
   - title: "Bookshelf"

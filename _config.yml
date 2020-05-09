@@ -114,16 +114,16 @@ author:
   Have a look around! Thoughts to share? Don't hesitate to contact me via email or Linkedin."
   location         : "San Francisco Bay Area"
   website          : "https://https://spencerrdean.github.io/"
-  email            : "srdean@wesleyan.edu"
+  email            : "sdean136@gmail.com"
   linkedin: "spencer-dean-786693156"
   github: "spencerrdean"
 
-  #links:
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#       url: mailto:srdean@wesleyan.edu
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:sdean136@gmail.com"
+    - label: "Resume Webpage"
+      icon: "fas fa-fw fa-link"
 #       url: "https://https://spencerrdean.github.io/"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
