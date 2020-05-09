@@ -104,7 +104,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "Spencer Dean"
@@ -113,29 +112,20 @@ author:
   This site serves as a portfolio to highlight some of my personal projects in data science, journalism, and more.
   Have a look around! Thoughts to share? Don't hesitate to contact me via email or Linkedin."
   location         : "San Francisco Bay Area"
-  website          : "https://https://spencerrdean.github.io/"
   email            : "sdean136@gmail.com"
-  linkedin: "spencer-dean-786693156"
-  github: "spencerrdean"
-
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:sdean136@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://https://spencerrdean.github.io/"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/SpencerDean14"
-#    - label: "Facebook"
-#      url: "https://www.facebook.com/spencer.dean.7524"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/spencerrdean"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-medium"
-#      url: "https://medium.com/@spencerdean"
+      # url: "https://https://spencerrdean.github.io/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/spencerrdean"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
