@@ -10,7 +10,7 @@ contribute to the [newspaper](http://wesleyanargus.com/user/srdean/) as a Copy E
 advertising in the U.S.
 
 Outside of school, I've interned at Salesforce, where I received invaluable experience
-with collaboration and communication while working on projects ranging from technical
-writing to user research and analytics (involving both quantitative and qualitative data).
+while working on projects ranging from technical writing to user research and analytics 
+(involving both quantitative and qualitative data).
 
 Check out my [resume webpage](https://spencerrdean.github.io/) for more on me!
